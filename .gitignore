@@ -1,0 +1,16 @@
+.tests
+.repro
+debug
+data
+doc/tags
+undo/
+/shada/
+
+foo.*
+tt.*
+
+*.swp
+*.swo
+*.log
+.DS_Store
+lazy-lock.json
