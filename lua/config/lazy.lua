@@ -18,7 +18,6 @@ require("lazy").setup({
   spec = {
     -- add LazyVim and import its plugins
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
-    { "nvim-neo-tree/neo-tree.nvim", opts = { window = { position = "left" } } },
     -- import LazyVim's layout extension (Edgy)
     { import = "lazyvim.plugins.extras.ui.edgy" },
     -- import/override with your plugins

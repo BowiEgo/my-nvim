@@ -12,7 +12,6 @@ return {
         native_lsp = {
           enabled = true,
         },
-        neotree = true,
         edgy = true,
       },
     },
